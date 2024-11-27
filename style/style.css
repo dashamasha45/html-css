@@ -1,0 +1,62 @@
+/* p{
+    width: 400px;
+    text-indent: 25px; 
+    /* красная строка */
+    /* font-family: "Comic Sans MS";
+    text-align: center;
+} */ 
+/* table{
+    width: 400px;
+    height: 100px;
+}
+td{
+    text-align: left;
+} */
+/* img{
+    width: 1000px;
+}
+
+ol li a {
+    color: black;
+    text-decoration: none;
+} */
+
+*{
+    padding: 0;
+    margin: 0;
+}
+table{
+    width: 300px;
+    height: 100px;
+    margin: 15px 30px;
+}
+td{
+    text-align: center;
+}
+p{
+    margin: 15px 30px;
+    width: 500px ;
+    text-indent: 35px;
+    text-align: justify;
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+h2{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-style: italic;
+    margin: 15px 30px;
+}
+h1{
+    margin: 15px 30px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+
